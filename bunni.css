@@ -1,0 +1,104 @@
+body{background-color: #FFE99C;} 
+
+h1{background-color: #BBE2FA;
+	font-family: 'Courier New', monospace;
+	font-size:45px;
+	text-align:center;
+	margin-left:15%;
+	margin-right:15%;
+	padding-top: 15px;
+	color: #6BA6FF;
+    border-style:dashed;
+    border-width:5px;
+    border-color: #FFAE82}
+
+p{background-color: #FFDC85;
+	font-family: 'Courier New', monospace;
+	font-size:45px;
+	text-align:center;
+	margin-left:15%;
+	margin-right:15%;
+	padding-top: 15px;
+	color: #69B4FF;
+}
+
+img{
+	border-style:groove;
+	border-width:5px;
+	border-color:#9E7744;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+}
+
+ul{
+	list-style-type: none;
+	margin-left:20%;
+	margin-right:20%;
+	overflow: hidden;
+	background-color: #BBE2FA;
+	display: flex;
+	justify-content: center;
+	border: 5px groove: white;
+}
+
+ul li{
+	float:left;
+	border-right:5px groove: white;
+}
+
+ul li:last-child{
+	border-right:none;
+}
+
+ul li a{
+	display:block;
+	color: #6BA6FF;
+	font-family: 'Courier New', monospace;
+	text-align:ceneter; 
+	padding:14px 16px;
+	text-decoration: none;
+	border-right: 2px;
+}
+
+ul li a:hover{
+	background-color:#FFDC85;
+	font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
